@@ -28,5 +28,7 @@
    - [intSetInOOPS.py](https://github.com/MayankPratap/i_love_python/blob/master/intSetInOOPS.py)  :- Object Oriented Implementation of a set of integers.
    
    - [QueueInOOPS.py](https://github.com/MayankPratap/i_love_python/blob/master/QueueInOOPS.py)  :- Object Oriented Implementation of a queue of integers.
+    
+   - [InheritanceExample.py](https://github.com/MayankPratap/i_love_python/blob/master/InheritanceExample.py) :- Inheritance example using two classes - Person and MNNIT Person.
    
 
