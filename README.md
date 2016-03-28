@@ -16,4 +16,15 @@
    - [socialsites.py](https://github.com/MayankPratap/i_love_python/blob/master/socialsites.py) :- Script to open my favorite social networking sites simultaneously in seperate tabs.
  
    - [stopwatch.py](https://github.com/MayankPratap/i_love_python/blob/master/stopwatch.py)  :- A modern stopwatch powered by python.
+   
+   - [textMyself.py](https://github.com/MayankPratap/i_love_python/blob/master/textMyself.py) :- A python script to send SMS on mobile when a task is complete.
+   
+   - [write_test_in_python.py](https://github.com/MayankPratap/i_love_python/blob/master/write_test_in_python.py)  :- Added code to write unit tests in python. 
+   
+   - [get_topcoder_tutorial.py](https://github.com/MayankPratap/i_love_python/blob/master/get_topcoder_tutorial.py)  :- A python script to download all algorothmic tutorials from topcoder in pdf format.
+   
+   - [hangman.py](https://github.com/MayankPratap/i_love_python/blob/master/hangman.py)  :- Hangman game in Python
+   
+   - [intSet.py](https://github.com/MayankPratap/i_love_python/blob/master/intSetInOOPS.py)  
+   
 
