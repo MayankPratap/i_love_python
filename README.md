@@ -1,5 +1,7 @@
 # i_love_python
    Collection of my python scripts
+
+   - [IsUp.py](https://github.com/MayankPratap/i_love_python/blob/master/IsUp.py) :- Script to give a sound alert if a website is up or else continues executing.
    
    - [ScrapeJames.py](https://github.com/MayankPratap/i_love_python/blob/master/ScrapeJames.py) :- Script to download every blog post of JamesAltucher and save them offline.
 
