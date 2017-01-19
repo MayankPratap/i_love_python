@@ -11,7 +11,7 @@ from email.MIMEText import MIMEText
 
 pw=getpass.getpass()
 
-print "Hello World"
+
 
 fromaddr = " XYZ@gmail.com "
 toaddr = " ZYX@gmail.com "
@@ -25,7 +25,7 @@ body = " Hey ZYX , whats going on ?? I was learning how to send mail from termin
 
 msg.attach(MIMEText(body,'plain'))
 
-print "Hello Universe"
+
 
 server=smtplib.SMTP('smtp.gmail.com',587)
 server.starttls()
