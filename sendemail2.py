@@ -1,13 +1,17 @@
-#!python3
+#!python2
 
 # This script sends email to a person in a clean way 
 
 # You have to allow "less secure apps" on your gmail account before running this script.
 
-import smtplib
+import smtplib,getpass
 
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
+
+pw=getpass.getpass()
+
+print "Hello World"
 
 fromaddr = " XYZ@gmail.com "
 toaddr = " ZYX@gmail.com "
@@ -21,10 +25,11 @@ body = " Hey ZYX , whats going on ?? I was learning how to send mail from termin
 
 msg.attach(MIMEText(body,'plain'))
 
+print "Hello Universe"
+
 server=smtplib.SMTP('smtp.gmail.com',587)
 server.starttls()
-server.login(fromaddr,"Your Password")
+server.login(fromaddr,pw)
 text=msg.as_string()
 server.sendmail(fromaddr,toaddr,text)
 server.quit()
-
