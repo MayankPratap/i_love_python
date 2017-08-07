@@ -5,8 +5,6 @@
    
    - [ScrapeJames.py](https://github.com/MayankPratap/i_love_python/blob/master/ScrapeJames.py) :- Script to download every blog post of JamesAltucher and save them offline.
 
-   - [InheritanceExample.py](https://github.com/MayankPratap/i_love_python/blob/master/InheritanceExample.py) :- Python script showing inheritance in OOPS
-
    - [QueueInOOPS.py](https://github.com/MayankPratap/i_love_python/blob/master/QueueInOOPS.py) :- Python script showing Queue in OOPS
 
    - [captureAndSaveVideo.py](https://github.com/MayankPratap/i_love_python/blob/master/captureAndSaveVideo.py) :- Capture and Save Video from Webcam using Python
@@ -18,9 +16,7 @@
    - [get_topcoder_tutorial.py](https://github.com/MayankPratap/i_love_python/blob/master/get_topcoder_tutorial.py) :- Download all topcoder tutorials and save as pdf
 
    - [hangman.py](https://github.com/MayankPratap/i_love_python/blob/master/hangman.py) :- Hangman game powered by Python and ASCII Art
-
-   - [intSetInOOPs.py](https://github.com/MayankPratap/i_love_python/blob/master/intSetInOOPS.py) :- intSet Construction using Python OOPs
-
+   
    - [jokes.py](https://github.com/MayankPratap/i_love_python/blob/master/jokes.py) :- Bullshit Jokes
 
    - [multithreaddownloadXkcd.py](https://github.com/MayankPratap/i_love_python/blob/master/multithreaddownloadXkcd.py) :- Added Multithreaded Xkcd Comics Downloader
